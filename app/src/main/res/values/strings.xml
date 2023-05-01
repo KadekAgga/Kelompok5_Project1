@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FinPro5 To Do List</string>
+    <string name="task_completed">Task Completed</string>
+</resources>
